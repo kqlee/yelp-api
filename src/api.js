@@ -54,6 +54,7 @@ const YelpSearch = {
         console.error('Error searching Yelp Phone Number: ', err);
       });
   }
+  
 };
 
 export default YelpSearch;

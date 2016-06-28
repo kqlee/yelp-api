@@ -6,9 +6,6 @@ import dotenv from 'dotenv';
 
 // Invoke our env file
 dotenv.config();
-// import express from 'express';
-// import bodyParser from 'body-parser';
-// import Yelp from './api';
 
 const app = express();
 const port = process.env.PORT || 8000;
