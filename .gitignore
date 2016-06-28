@@ -6,3 +6,9 @@
 
 # MISC Files
 npm-debug.log
+
+# Ignore Dist folder
+dist
+
+# Server file
+server.js

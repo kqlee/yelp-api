@@ -1,9 +1,5 @@
 // Yelp API starter module in ES6
 import Yelp from 'yelp';
-import dotenv from 'dotenv';
-
-// Invoke our env file
-dotenv.config();
 
 // Create a Yelp object, passing in required parameters
 const yelp = new Yelp({
