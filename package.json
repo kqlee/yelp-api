@@ -1,0 +1,22 @@
+{
+  "name": "yelp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kqlee/yelp-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kqlee/yelp-api/issues"
+  },
+  "homepage": "https://github.com/kqlee/yelp-api#readme",
+  "dependencies": {
+    "yelp": "^1.0.1"
+  }
+}

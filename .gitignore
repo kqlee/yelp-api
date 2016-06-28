@@ -1,0 +1,8 @@
+# Node Modules
+/node_modules
+
+# Configuration Files
+.env
+
+# MISC Files
+npm-debug.log
