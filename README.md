@@ -14,6 +14,7 @@ const defaultParams = {
   limit: 1,
   sort: 0,
   radius_filter: 3200,
+};
 
 // Example data from result:
 
