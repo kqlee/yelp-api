@@ -1,7 +1,7 @@
 // Yelp API starter module in ES6
+import Yelp from 'yelp';
+import dotenv from 'dotenv';
 
-const Yelp = require('yelp');
-const dotenv = require('dotenv');
 // Invoke our env file
 dotenv.config();
 
@@ -60,4 +60,4 @@ const YelpSearch = {
   }
 };
 
-module.exports = YelpSearch;
+export default YelpSearch;

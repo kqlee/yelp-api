@@ -1,8 +1,8 @@
 // Sample server file to test API calls
-const express = require('express');
-const bodyParser = require('body-parser');
-const YelpSearch = require('./api');
-const dotenv = require('dotenv');
+import express from 'express';
+import bodyParser from 'body-parser';
+import YelpSearch from './api';
+import dotenv from 'dotenv';
 
 // Invoke our env file
 dotenv.config();
